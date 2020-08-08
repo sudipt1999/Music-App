@@ -7,3 +7,10 @@ A music app that uses Youtube API for fetching music and playing it in browser.
 3. Put youtube API keys in the sample env file and rename it to `.env`
 4. Run it using `npm start`
 
+## Working Images of App
+
+![working]('./src/images/app.PNG)
+
+![working]('./src/images/search.PNG)
+
+![working]('./src/images/media.PNG)
