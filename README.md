@@ -9,8 +9,8 @@ A music app that uses Youtube API for fetching music and playing it in browser.
 
 ## Working Images of App
 
-![working]('./src/images/app.PNG')
+![working](./src/images/app.PNG)
 
-![working]('./src/images/search.PNG')
+![working](./src/images/search.PNG)
 
-![working]('./src/images/media.PNG')
+![working](./src/images/media.PNG)
